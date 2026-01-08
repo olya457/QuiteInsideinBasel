@@ -1,4 +1,4 @@
-package com.quiteinsideinbasel
+package com.quite.inside.inbasel
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
